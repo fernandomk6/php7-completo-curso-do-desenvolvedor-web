@@ -2,9 +2,7 @@
 
 Esse [curso](https://www.cod3r.com.br/courses/php) foi realizado na [cod3r](https://www.cod3r.com.br/).
 
-Esse repositório tem como finalidade, registrar os pontos chaves observados 
-por mim, durante o curso, afim de servir de exercício de fixação para meu eu de 
-agora, e de material de consulta para o meu eu do futuro.
+Esse repositório tem como finalidade documentar os assuntos e projetos visto por mim, neste curso.
 
 ## Assuntos abordados neste curso:
 
