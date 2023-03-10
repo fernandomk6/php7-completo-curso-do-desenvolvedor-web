@@ -22,16 +22,7 @@
 					<h3>Módulo 1</h3>
 					<ul> 
 						<li>
-							<a href="./exercicio.php?dir=teste&file=teste">Exercício A</a>
-						</li>
-						<li>
-							<a href="#">Exercício B</a>
-						</li>
-						<li>
-							<a href="#">Exercício C</a>
-						</li>
-						<li>
-							<a href="#">Exercício D</a>
+							<a href="./exercicio.php?dir=basico&file=ola">Olá PHP</a>
 						</li>
 					</ul>
 				</div>
