@@ -11,7 +11,7 @@ while ($count <= LIMIT) {
 $count = 0;
 do {
     echo "$count\r\n";
-    $count++;
+    $count++; 
 } while ($count <= LIMIT);
 
 
