@@ -24,5 +24,5 @@ echo array_reduce(
     fn ($acc, $row) 
         => "$acc\t<tr>\r\n\t\t<td>" . implode("</td>\r\n\t\t<td>", $row) . "</td>\r\n\t</tr>\r\n"
     , "<table>\r\n"
-) . "</table>\r\n";
+) . "</table>\r\n"; 
 
